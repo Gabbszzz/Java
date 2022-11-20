@@ -1,0 +1,4 @@
+Faça uma pesquisa sobre os assuntos abaixo e formate em um documento para entrega.
+1. Versões do Java: fala sobre cada versão do Java e suas diferenças.
+2. JDBC: aborde sobre o que se trata esta ferramenta.
+3. Garbage Collector: explique sobre essa tecnologia no Java.
