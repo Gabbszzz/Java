@@ -1,0 +1,16 @@
+1.Escreva um algoritmo que leia um valor inicial A e imprima a seqüência de valores do cálculo de A! e o seu resultado. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120
+
+
+2.Crie um programa em linguagem Java que permita entrar com a nota da prova 1 e da prova 2 de 15 alunos. Ao final, imprimir uma listagem, contendo: nota da prova 1, nota da prova 2, a média das notas de cada aluno e a situação final de cada. Ao final, imprimir a média geral da turma.
+
+
+3.Depois da liberação do governo para as mensalidades dos planos de saúde, as pessoas começaram a fazer pesquisas para descobrir um bom plano, não muito caro. Um vendedor de um plano de saúde apresentou a tabela a seguir. Faça um programa que entre com o nome e a idade de uma pessoa e imprima o nome e o valor que ela deverá pagar.
+Idade                                                            Valor
+Até 10 anos                                                 R$30,00
+Acima de 10 até 29 anos                          R$60,00
+Acima de 29 até 45 anos                          R$120,00
+Acima de 45 até 59 anos                          R$150,00
+Acima de 59 até 65 anos                          R$250,00
+Maior que 65 anos                                     R$400,00
+
+4.Faça um programa para ler 10 números diferentes a serem armazenados em um vetor. Os números deverão ser armazenados no vetor na ordem em que forem lidos, sendo que, caso o usuário digite um número que já foi digitado anteriormente, o programa deverá pedir a ele para digitar outro número. Note que cada valor digitado pelo usuário deve ser pesquisado no vetor, verificando se ele existe entre os números que já foram fornecidos. Exiba na tela o vetor final que foi digitado.
