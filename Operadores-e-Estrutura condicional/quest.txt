@@ -1,0 +1,11 @@
+1. Faça um programa em Java que leia o nome o endereço e o telefone de um cliente e ao final, imprima esses dados.
+
+2. Faça um programa em Java que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). Para isso, será necessário também ler o valor da cotação do dólar.
+3. Faça um programa em Java que calcule o valor de uma prestação em atraso. Para isso, o programa deve ler o valor da prestação vencida, a taxa periódica de juros e o período de atraso. Ao final, o programa deve imprimir o valor da prestação atrasada, o período de atraso, os juros que serão cobrados pelo período de atraso, o valor da prestação acrescido dos juros. Considere juros simples. 
+4. Faça um programa em Java que leia dois valores numéricos inteiros e efetue a adição, caso o resultado seja maior que 10, apresentá-lo.
+5. Faça um programa em Java que leia três notas de um aluno e mostre a média obtida, a maior nota, a menor nota e se o aluno foi aprovado ou reprovado. Para alunos aprovados média >=7.
+
+
+OBS: 1º Questão: Tipo de dados incorreto para receber caracteres.
+3º Questão: Saída de dados não corresponde ao solicitado.
+4º Questão: número deverá ser apresentado caso seja maior que 10.
